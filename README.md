@@ -1,2 +1,3 @@
-# academia-digitala
-GA and GTM resources
+# academia-digitala 
+Google Tag Manager (GTM) Data Layer Guide - code examples
+
